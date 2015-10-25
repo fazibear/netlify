@@ -1,6 +1,5 @@
 GEM
   remote: https://rubygems.org/
-  remote: https://rails-assets.org/
   specs:
     hike (1.2.3)
     inesita (0.2.3)
@@ -23,10 +22,6 @@ GEM
     paggio (0.2.5)
     rack (1.6.4)
     rack-rewrite (1.5.1)
-    rails-assets-bootstrap (3.3.5)
-      rails-assets-jquery (>= 1.9.1)
-    rails-assets-jquery (2.1.4)
-    rails-assets-virtual-dom (2.1.1)
     sass (3.4.19)
     slim (3.0.6)
       temple (~> 0.7.3)
@@ -44,8 +39,6 @@ PLATFORMS
 DEPENDENCIES
   inesita (~> 0.2.0)
   opal-browser (~> 0.2)
-  rails-assets-bootstrap!
-  rails-assets-virtual-dom!
 
 BUNDLED WITH
    1.10.6
